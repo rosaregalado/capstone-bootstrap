@@ -1,0 +1,32 @@
+
+.navbar {
+  background-color: white;
+}
+body {
+  background-image: url(brick-wallpaper.png);
+  background-position: fixed;
+}
+.nav-link {
+  color: #986a00;
+}
+.card {
+  border: 3px solid white;
+  background-color: white;
+}
+.nav-link:hover {
+  color: black;
+  border: 3px solid #986a00;
+}
+p {
+  text-align: center;
+}
+button {
+  background-color: #CD4568; 
+  color: white;
+  width: 200px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+li {
+  line-height: 3;
+}
