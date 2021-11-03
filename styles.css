@@ -3,13 +3,15 @@
   background-color: white;
 }
 body {
-  background-image: url(brick-wallpaper.png);
+  background-image: url(images/brick-wallpaper.png);
   background-position: fixed;
 }
 .nav-link {
   color: #986a00;
 }
-
+.row {
+  padding: 1em;
+}
 .nav-link:hover {
   color: black;
   border: 3px solid #986a00;
@@ -39,4 +41,7 @@ h5 {
 }
 li  {
   line-height: 2;
+}
+.card {
+  border: 5px solid #B87FBA;
 }
