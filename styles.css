@@ -9,10 +9,7 @@ body {
 .nav-link {
   color: #986a00;
 }
-.card {
-  border: 3px solid white;
-  background-color: white;
-}
+
 .nav-link:hover {
   color: black;
   border: 3px solid #986a00;
@@ -27,6 +24,19 @@ button {
   padding-top: 5px;
   padding-bottom: 5px;
 }
-li {
+.nav-item {
   line-height: 3;
+}
+h5 {
+  color: #986a00;
+  font-family: munito;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+.list-unstyled a {
+  text-decoration: none;
+  font-size: 20px;
+}
+li  {
+  line-height: 2;
 }
